@@ -1,0 +1,21 @@
+{
+    "login": {
+        "user": "Admin",
+        "password": "admin123"
+    },
+    
+    "employeNew": {
+        "photoEmp": "./data/images/photoemp.png",
+        "firstNameEmp": "Nombre 1",
+        "middleNameEmp": "Nombre 2",
+        "lastNameEmp": "Apellido",
+        "idEmp": "0018",
+        "userEmp": "retoplaywright1@gmail.com",
+        "passEmp": "666666666Aa",
+        "confirmedPassEmp": "666666666Aa"
+    },
+
+    "pageUrl": {
+        "url": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"
+    }   
+}

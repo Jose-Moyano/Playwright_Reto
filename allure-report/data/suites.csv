@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","22330","CP002 - Crear Empleado","chromium","Wed Oct 02 09:30:45 PET 2024","failed","Wed Oct 02 09:31:08 PET 2024","","fixtures\Test.spec.ts","",""
+"","21992","CP003 - Validar Empleado","chromium","Wed Oct 02 09:30:45 PET 2024","failed","Wed Oct 02 09:31:07 PET 2024","","fixtures\Test.spec.ts","",""
+"","22202","CP001 - Inicio de sesión exitoso","chromium","Wed Oct 02 09:30:45 PET 2024","failed","Wed Oct 02 09:31:07 PET 2024","","fixtures\Test.spec.ts","",""
